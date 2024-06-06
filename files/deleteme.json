@@ -1,0 +1,168 @@
+{
+    "drawings": [
+    ],
+    "map": "",
+    "orders": [
+    ],
+    "time": {
+        "current": "00:00:00",
+        "format": "hh:mm:ss",
+        "start": "00:00:00",
+        "timestep": 3600
+    },
+    "units": [
+        {
+            "app6": "SFGPUCIZ---I",
+            "displayedText": "Div CDR",
+            "pos": [
+                0.1,
+                4
+            ],
+            "uniqueId": 1000
+        },
+        {
+            "app6": "SFGPUCIZ---H",
+            "displayedText": "BR/1",
+            "pos": [
+                0,
+                2.718
+            ],
+            "uniqueId": 1001
+        },
+        {
+            "app6": "SFGPUCIZ---H",
+            "displayedText": "BR/2",
+            "pos": [
+                3.14,
+                1
+            ],
+            "uniqueId": 1002
+        },
+        {
+            "app6": "SFGPUCA----H",
+            "displayedText": "BR/3",
+            "pos": [
+                1,
+                0
+            ],
+            "uniqueId": 1003
+        },
+        {
+            "app6": "SFGPUCIZ---F",
+            "displayedText": "BN/1-1",
+            "pos": [
+                4,
+                4
+            ],
+            "uniqueId": 1004
+        },
+        {
+            "app6": "SFGPUCIZ---F",
+            "displayedText": "BN/1-2",
+            "pos": [
+                2.2,
+                45
+            ],
+            "uniqueId": 1005
+        },
+        {
+            "app6": "SFGPUCA----F",
+            "displayedText": "BN/1-3",
+            "pos": [
+                2.2,
+                45
+            ],
+            "uniqueId": 1006
+        },
+        {
+            "app6": "SFGPUCIZ---F",
+            "displayedText": "BN/2-1",
+            "pos": [
+                4,
+                4
+            ],
+            "uniqueId": 1007
+        },
+        {
+            "app6": "SFGPUCIZ---F",
+            "displayedText": "BN/2-2",
+            "pos": [
+                2.2,
+                45
+            ],
+            "uniqueId": 1008
+        },
+        {
+            "app6": "SFGPUCA----F",
+            "displayedText": "BN/2-3",
+            "pos": [
+                2.2,
+                45
+            ],
+            "uniqueId": 1009
+        },
+        {
+            "app6": "SFGPUCIZ---F",
+            "displayedText": "BN/3-1",
+            "pos": [
+                4,
+                4
+            ],
+            "uniqueId": 1010
+        },
+        {
+            "app6": "SFGPUCA----F",
+            "displayedText": "BN/3-2",
+            "pos": [
+                2.2,
+                45
+            ],
+            "uniqueId": 1011
+        },
+        {
+            "app6": "SFGPUCA----F",
+            "displayedText": "BN/3-3",
+            "pos": [
+                2.2,
+                45
+            ],
+            "uniqueId": 1012
+        },
+        {
+            "app6": "SFGPUCIZ---E",
+            "displayedText": "CO/1-1-1",
+            "pos": [
+                4,
+                4
+            ],
+            "uniqueId": 1013
+        },
+        {
+            "app6": "SFGPUCIZ---E",
+            "displayedText": "CO/1-1-2",
+            "pos": [
+                4,
+                4
+            ],
+            "uniqueId": 1014
+        },
+        {
+            "app6": "SFGPUCI----E",
+            "displayedText": "CO/1-1-3",
+            "pos": [
+                4,
+                4
+            ],
+            "uniqueId": 1015
+        },
+        {
+            "app6": "SFGPUCF----E",
+            "displayedText": "CO/1-1-4",
+            "pos": [
+                4,
+                4
+            ],
+            "uniqueId": 1016
+        }
+    ]
+}
